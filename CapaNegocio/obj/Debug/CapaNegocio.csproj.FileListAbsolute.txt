@@ -1,0 +1,22 @@
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\gabriel jose\OneDrive\Desktop\fran\user_registration\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\gabriel jose\OneDrive\Desktop\fran\user_registration\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\gabriel jose\OneDrive\Desktop\fran\user_registration\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\gabriel jose\OneDrive\Desktop\fran\user_registration\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\gabriel jose\OneDrive\Desktop\fran\user_registration\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\gabriel jose\OneDrive\Desktop\fran\user_registration\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\gabriel jose\OneDrive\Desktop\fran\user_registration\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\gabriel jose\OneDrive\Desktop\fran\user_registration\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\gabriel jose\OneDrive\Desktop\fran\user_registration\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\gabriel jose\OneDrive\Desktop\fran\user_registration\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\gabriel jose\OneDrive\Desktop\fran\user_registration\CapaNegocio\obj\Debug\CapaNegocio.pdb

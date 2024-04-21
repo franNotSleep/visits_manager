@@ -1,0 +1,18 @@
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\gabriel jose\OneDrive\Desktop\fran\user_registration\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\gabriel jose\OneDrive\Desktop\fran\user_registration\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\gabriel jose\OneDrive\Desktop\fran\user_registration\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\gabriel jose\OneDrive\Desktop\fran\user_registration\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\gabriel jose\OneDrive\Desktop\fran\user_registration\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\gabriel jose\OneDrive\Desktop\fran\user_registration\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\gabriel jose\OneDrive\Desktop\fran\user_registration\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\gabriel jose\OneDrive\Desktop\fran\user_registration\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\gabriel jose\OneDrive\Desktop\fran\user_registration\CapaDatos\obj\Debug\CapaDatos.pdb

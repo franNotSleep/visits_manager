@@ -1,0 +1,34 @@
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaPresentacion\obj\Debug\CapaPresentacion.P_Empleados.resources
+C:\Users\tecbi\source\repos\MultiCapas_First\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\gabriel jose\OneDrive\Desktop\fran\user_registration\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\gabriel jose\OneDrive\Desktop\fran\user_registration\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\gabriel jose\OneDrive\Desktop\fran\user_registration\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\gabriel jose\OneDrive\Desktop\fran\user_registration\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\gabriel jose\OneDrive\Desktop\fran\user_registration\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\gabriel jose\OneDrive\Desktop\fran\user_registration\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\gabriel jose\OneDrive\Desktop\fran\user_registration\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\gabriel jose\OneDrive\Desktop\fran\user_registration\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\gabriel jose\OneDrive\Desktop\fran\user_registration\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\gabriel jose\OneDrive\Desktop\fran\user_registration\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\gabriel jose\OneDrive\Desktop\fran\user_registration\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\gabriel jose\OneDrive\Desktop\fran\user_registration\CapaPresentacion\obj\Debug\CapaPresentacion.P_Empleados.resources
+C:\Users\gabriel jose\OneDrive\Desktop\fran\user_registration\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\gabriel jose\OneDrive\Desktop\fran\user_registration\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\gabriel jose\OneDrive\Desktop\fran\user_registration\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\gabriel jose\OneDrive\Desktop\fran\user_registration\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\gabriel jose\OneDrive\Desktop\fran\user_registration\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
